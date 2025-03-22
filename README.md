@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 # 💫 About Me:
 <br>Computer Engineer focused on Data Engineering, Data Analysis, and  AI/ML.<br>- Specialize in using data to solve real-world problems and develop innovative solutions.<br>- Experienced in building data pipelines and applying machine learning<br>
 
